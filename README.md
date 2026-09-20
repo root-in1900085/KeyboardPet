@@ -21,8 +21,8 @@ https://dotnet.microsoft.com/download/dotnet/10.0
 ## Customization
 
 - `Assets`: replace `idle.png`, `press1.png`, `press2.png`
-- `Sounds`: replace `press.wav`
-- `settings.json`: edit with Notepad to change size, animation, sound volume, hold delay, etc.
+- `Sounds`: replace `press.wav` with your own sound
+- `settings.json`: edit size, animation, volume, hold delay, etc.
 
 ## Features
 
