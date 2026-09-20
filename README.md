@@ -20,20 +20,9 @@ https://dotnet.microsoft.com/download/dotnet/10.0
 
 ## Customization
 
-Replace the files in the `Assets` folder:
-
-- `idle.png`
-- `press1.png`
-- `press2.png`
-
-Replace:
-
-- `Sounds/press.wav`
-
-to use your own key sound.
-
-Edit `settings.json` with Notepad to change animation, size,
-sound volume, hold delay, etc.
+- `Assets`: replace `idle.png`, `press1.png`, `press2.png`
+- `Sounds`: replace `press.wav`
+- `settings.json`: edit with Notepad
 
 ## Features
 
